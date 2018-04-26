@@ -1,7 +1,7 @@
 app.controller('HomeController', ['$scope', function($scope) {
       $scope.title = 'IMDB + Janina\'s Top 8 Movies';
       $scope.owner = 'Janina Leon';
-      $scope.github = 'https://github.com/jal66/IS_AngularP3.git';
+      $scope.github = 'https://github.com/janina2489/IS_AngularP3.git';
       
       /* THESE ARE YOUR LIST OF MOVIES AND ACCOMPANYING METADATA
       //    
@@ -142,7 +142,7 @@ app.controller('HomeController', ['$scope', function($scope) {
       /* ADD VARIABLES FOR STEP 3 HERE */
       $scope.title = 'IMDB + Janina\'s Top 8 Movies';
       $scope.owner = 'Janina Leon';
-      $scope.github = 'https://github.com/jal66/IS_AngularP3.git';
+      $scope.github = 'https://github.com/janina2489/IS_AngularP3.git';
       
       
       
